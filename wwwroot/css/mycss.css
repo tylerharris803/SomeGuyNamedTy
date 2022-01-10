@@ -1,0 +1,12 @@
+﻿label {
+    font-size: 20px;
+    color: darkgreen;
+    width: 120px;
+    display: inline-block;
+}
+
+container {
+    margin: 100px;
+    text-align: center;
+    display: inline-block;
+}
